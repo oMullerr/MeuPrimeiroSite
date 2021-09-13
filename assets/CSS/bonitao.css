@@ -1,0 +1,41 @@
+body {
+    background:rgb(74, 112, 139);
+    color: black;
+    text-align: center;
+}
+
+h1{
+    font-size: 40px;
+}
+
+.j{
+  text-align: center;  
+}
+p{
+    font-size: 30px;
+   
+}
+
+button{
+    text-align: center;
+    border: none;
+    cursor: pointer;
+    background: 0px;
+    margin-right: 200px;
+    margin-bottom: 200px;
+    width: 400px;
+
+
+}
+img{
+    width: 500px;
+}
+img.logo{
+    width: 800px;
+    background:none;
+}
+
+p.vren{
+   font-size: 20px;
+   
+}

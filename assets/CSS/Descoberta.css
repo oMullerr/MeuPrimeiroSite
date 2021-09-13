@@ -1,0 +1,79 @@
+body{
+    background-color: rgb(193, 205, 205);
+}
+
+header{
+    text-align: center;
+    border-width: 20px;
+}
+
+h1.flat{
+    text-decoration-color: dimgrey;
+    text-align: center;
+}
+
+button{
+    border-style: solid;
+    background-color: rgb(193, 205, 205);
+    text-align: center;
+    align-items: left;
+    cursor: hand;
+}
+
+h2{
+    text-align: left;
+    font-size: 35px;
+    margin-top: 60px;
+
+}
+
+
+p{
+    text-align: left;
+    margin-left: 10px;
+    margin-right: 1300px;
+    font-size: 20px;
+    text-align: justify;
+}
+    
+ul{
+    text-align: left;
+}
+
+li{
+    text-align: left;
+    font-size: 20px;
+}
+
+h2.foot{
+    margin-top: 60px;
+    font-size: 35px;
+}
+
+
+ul.goot{
+    font-size: 35px;
+}
+
+h2.graavy{
+    margin-top: 60px;
+}
+
+li.moon{
+    margin-top: 60px;
+    font-size: 30px;
+}
+
+li.hit{
+    font-size: 30px;
+}
+
+li.jujy{
+    font-size: 30px;
+}
+
+image.bubu{
+    margin-left: 110px;
+    margin-top: 40px;
+
+}
